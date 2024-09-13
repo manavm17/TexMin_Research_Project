@@ -1,11 +1,17 @@
-# TexMin_Research_Project
-->Collaborated on a multifunctional project with 20+ developers at TexMin Hub.
+# Predictive Maintenance Solution for Heavy Machinery
 
-->Developed a low-cost predictive maintenance solution for Heavy Earth Moving Machinery in open-cast mines.
+• Engineered a cost-effective predictive solution with a team of 6 members by designing a model that forecasts machinery failures
+at the logs recording level, enabling operators to take measures.
 
-->Executed time-series analysis and predictions for effective maintenance planning.
+• Leveraged time series analysis and LSTM techniques to accurately forecast failures within a 17.33-hour window (+/- 8.66 hours).
 
-->Tech Stack - Python, Deep learning(LSTMs), MS-Excel.
+• Optimized maintenance scheduling by empowering log recorders to detect potential failures before scheduled maintenance,
+facilitating timely analysis and preventive actions.
+
+• Delivered a scalable and practical solution that is easily deployable, ensuring accessibility and practicality for daily operations in
+mining environments.
+
+• Tech Stack - ython, LSTMs, Time Series Analysis, MS-Excel
 
 Since it was a classified project, I don't have access to the original data and codebase, but I am attaching the solution that was the heart of the project.
 
