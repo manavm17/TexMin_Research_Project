@@ -11,7 +11,7 @@ facilitating timely analysis and preventive actions.
 • Delivered a scalable and practical solution that is easily deployable, ensuring accessibility and practicality for daily operations in
 mining environments.
 
-• Tech Stack - ython, LSTMs, Time Series Analysis, MS-Excel
+• Tech Stack - Python, LSTMs, Time Series Analysis, MS-Excel
 
 Since it was a classified project, I don't have access to the original data and codebase, but I am attaching the solution that was the heart of the project.
 
